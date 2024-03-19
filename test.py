@@ -1,4 +1,4 @@
 # test file
 
-for i in range(100):
+for i in range(21, 31):
     print(i)
