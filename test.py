@@ -5,7 +5,7 @@
 for i in range(1, 11):
 =======
 # test file
-# hoho
+
 for z in range(21, 31):
 >>>>>>> another
     print(i)
