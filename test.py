@@ -2,6 +2,7 @@
 
 for z in range(21, 31):
     print(i)
+# 놀러가고 싶다
 
 # 지현
 for j in range(11, 21):
