@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 # 원태 으어어어
 # <--  원태 작품
 # 1 - 10 출력
 for i in range(1, 11):
+=======
+# test file
+# hoho
+for z in range(21, 31):
+>>>>>>> another
     print(i)
 # 놀러가고 싶다
 # 어디로든 문!
