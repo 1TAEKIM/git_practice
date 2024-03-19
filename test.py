@@ -9,4 +9,4 @@ for j in range(11, 21):
 =======
 for x in range(31, 41):
     print(x, end = ' ')
->>>>>>> origin/f/print_number
+>>>>>>> origin/f/print_numberls
